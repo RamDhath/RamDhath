@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamDhath 
 - 👀 I’m interested in becoming a Full stack developer.
-- 🌱 I’m currently learning the basics like Html,css,JS,Jquery,bootstrap.
+- 🌱 I’m currently learning the basics like HTML,CSS,JS,Jquery,Bootstrap.
 - 💞️ I’m looking to collaborate with anyone who requires an additional member.
 - 📫 How to reach me ramdhath@gmail.com
 
